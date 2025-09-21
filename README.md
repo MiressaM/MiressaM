@@ -1,4 +1,4 @@
-## Hi I'm Miressa 👋
+## Hi, I'm Miressa 👋
 
 PhD student in **Electrical and Computer Engineering** specializing in **Autonomous Driving**.  
 I develop and implement **deep reinforcement learning (DRL) algorithms for intersection decision-making** and focus on deploying these models in real-world systems to enhance the reliability of autonomous mobility solutions.
